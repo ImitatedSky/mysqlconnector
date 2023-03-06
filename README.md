@@ -1,5 +1,8 @@
 # mysqlconnector
 
 mysqlconnector:
+MySQLdb old version cant use in linux
 
-mysqlconnector
+mysqlconnector1:
+work in linux
+
